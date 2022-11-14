@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8'>
+    <title>Home page/title>
+  </head>
+  <body>
+    <h1>Home page
+    <a href="SECOND-PAGE.html">SECOND PAGE</a>   
+    <a href="THIRD-PAGE.html">THIRD PAGE</a>   
+  </body>
+</html>
